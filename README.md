@@ -1,24 +1,32 @@
-# README
+![beta development](https://img.shields.io/badge/beta-development-green?style=flat-square)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Dulce Estate Backend
 
-Things you may want to cover:
+Backend for real estate capstone project. 
 
-* Ruby version
+## Built with
 
-* System dependencies
+- Ruby 2.6
+- Rails 5.2
+- PostgreSQL
 
-* Configuration
 
-* Database creation
+## Author
 
-* Database initialization
+👤 Elizabeth Villalejos
 
-* How to run the test suite
+- Github: [@misselliev](https://github.com/misselliev)
+- Linkedin: [Ellie Villalejos](https://linkedin.com/ellievillalejos)
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## 🤝 Contributing
 
-* ...
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+> “What simple action could you take today to produce a new momentum toward success in your life?” Tony Robbins
